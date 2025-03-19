@@ -6,8 +6,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim:
 
 - 🔭 Atualmente estou buscando trabalho na área.
 - 🌱 Estou aprendendo JavaScript.
-- 👯 Estou procurando colaborar em ERP.
-- 🤔 Estou procurando ajuda com desenvolvimento de sites
 - 📫 Como me encontrar: gilliard.carvalho6@gmail.com
 
 
