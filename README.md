@@ -8,7 +8,7 @@
 
 ## 🔧 Linguagens & Ferramentas  
 - **Java | Spring Boot**  
-- **JavaScript | Node.js**  
+- **JavaScript | React**  
 - **HTML5 | CSS3**  
 - **Git | GitHub**  
 - **MySQL | PostgreSQL**  
